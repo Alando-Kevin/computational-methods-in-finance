@@ -1,6 +1,6 @@
 import scipy.stats as si
 import numpy as np
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt # type: ignore
 
 # Black-Scholes formula for European call option price
 def black_scholes_call(S, K, T, r, sigma):
