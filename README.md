@@ -1,5 +1,5 @@
 # Computational Methods in Finance
-## Modelling Implied Volatility
+## Modelling Implied Volatility (Assignment 1)
 The Black Scholes model is used to derive implied volatility assuming a frictionless Market. BSM is limited in the sense that it assumes constant volatility and Cannot explain the volatility smile effect observed in markets.
 Implied volatility however, quotes option prices in terms of volatility and reflects market expectation of fiuture volatility.
 ### Week 1: Calculating the implied volatility using the provided data without interporlation
